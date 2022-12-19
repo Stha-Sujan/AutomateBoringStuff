@@ -1,4 +1,4 @@
-# this program says hello and asks for my name 
+# this program says hello and asks for my name and age
 
 print('Hello world!')
 
